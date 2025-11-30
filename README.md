@@ -143,9 +143,13 @@ Halftone applied to objects, outline applied to render pass
     * To be added
 
 ### Blackhole shader (aka Outer Wilds)
-    * Currently working on the URP version using only ShaderGraph nodes
+    Currently working on the URP version using only ShaderGraph nodes
     Can be easily implemented using custom function to calculate sphere raycast
     Basically, displays the background on the sphere's UV with some distortion strength. So it depends on sphere's UV and amount of polygons. Recommend to use sphere with at least >10.000 polygons and flipped normals. Also make sure to render opaque textures first in your render settings (e.g. PC_Render)
+    
+![Movie041](https://github.com/user-attachments/assets/8d931feb-4d14-4d9f-9e3c-6c8eb57eb5ba)
+
+    
 
 ### Skybox shader (procedural)
     * To be updated
