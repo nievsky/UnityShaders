@@ -152,7 +152,8 @@ Halftone applied to objects, outline applied to render pass
     
 
 ### Skybox shader (procedural)
-    ![Movie043](https://github.com/user-attachments/assets/cd9458d0-792a-4597-81db-567e0c5f73d3)
+
+![Movie043](https://github.com/user-attachments/assets/cd9458d0-792a-4597-81db-567e0c5f73d3)
 
 
 ---
