@@ -142,6 +142,10 @@ Halftone applied to objects, outline applied to render pass
 ### Obra-Dinn dithering
     * To be added
 
+    sources:
+    * https://danielilett.com/2020-02-26-tut3-9-obra-dithering/
+    * https://forums.tigsource.com/index.php?topic=40832.800
+
 ### Blackhole shader (aka Outer Wilds)
     Currently working on the URP version using only ShaderGraph nodes
     Can be easily implemented using custom function to calculate sphere raycast
